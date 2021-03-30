@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Game Steam</string>
+
+    <string-array name="game_steam">
+        <item>Dota 2</item>
+        <item>CSGO</item>
+        <item>PUBG</item>
+        <item>GTA 5</item>
+        <item>Brawhala</item>
+        <item>Overwatch</item>
+        <item>Persona 5</item>
+        <item>Paladins</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Game MOBA</item>
+        <item>Game FPS</item>
+        <item>Game Battle Royale</item>
+        <item>Game Action</item>
+        <item>Game Fighting</item>
+        <item>Game FPS</item>
+        <item>Game Turn Base</item>
+        <item>Game FPS</item>
+    </string-array>
+</resources>
